@@ -27,11 +27,15 @@
 
 - 💻 Fullstack Java Developer & Data Engineer, building clean, scalable systems out of Kolkata, India
 - 🏢 Currently a Software Engineer working across client projects (insurance-domain platforms) after starting out as a Data Engineer Intern
-- 🌱 Currently exploring: *(e.g. AI/ML integration in enterprise systems, LLMs — edit me)*
+- 🌱 Currently exploring: Data Engineering, ETL-pipelines, LLMs.
 - 📸 Off the keyboard: HIPA Merit Award-winning photographer, documenting India's streets, travel, and stories through the lens
 - 💬 Ask me about: Angular, Spring Boot, ETL pipelines, or photography in India
 
 ---
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="350">
+</p>
 
 ### 🛠️ Skills & Tools
 
@@ -39,41 +43,21 @@
 <tr>
 <td width="60%" valign="top">
 
-**Languages & Tools** — animated, in the same style as popular "moving logo" tech stacks:
-
-<!-- These are from the well-known "Moving Logos" animated GIF set (linked below).
-     I pulled a representative sample — since they're unlabeled thumbnails, preview
-     the full sheet and swap in the exact ones for your stack: 
-     https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub#moving-logos -->
-
+**Languages & Tools**:
 <p align="left">
-  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="55" />
-  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="55" />
-  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="55" />
-  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="55" />
-  <img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="55" />
-  <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="55" />
-  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="55" />
-</p>
-
-**Static alternative** (hover any icon for its name):
-
-<p align="left">
+  <img title="Python" src="https://skillicons.dev/icons?i=python" width="42" height="42" />
+  <img title="SQL / MySQL" src="https://skillicons.dev/icons?i=mysql" width="42" height="42" />
+  <img title="Anaconda" src="https://skillicons.dev/icons?i=anaconda" width="42" height="42" />
+  <img title="Django" src="https://skillicons.dev/icons?i=django" width="42" height="42" />
   <img title="Java" src="https://skillicons.dev/icons?i=java" width="42" height="42" />
   <img title="Spring Boot" src="https://skillicons.dev/icons?i=spring" width="42" height="42" />
   <img title="Angular" src="https://skillicons.dev/icons?i=angular" width="42" height="42" />
-  <img title="TypeScript" src="https://skillicons.dev/icons?i=ts" width="42" height="42" />
-  <img title="Python" src="https://skillicons.dev/icons?i=python" width="42" height="42" />
-  <img title="SQL / MySQL" src="https://skillicons.dev/icons?i=mysql" width="42" height="42" />
+  <img title="TypeScript" src="https://skillicons.dev/icons?i=ts" width="42" height="42" />  
   <img title="HTML5" src="https://skillicons.dev/icons?i=html" width="42" height="42" />
   <img title="CSS3" src="https://skillicons.dev/icons?i=css" width="42" height="42" />
   <img title="Git" src="https://skillicons.dev/icons?i=git" width="42" height="42" />
-  <img title="Your Skill Here" src="https://skillicons.dev/icons?i=azure" width="42" height="42" />
 </p>
 
-</td>
-<td width="40%" valign="top" align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="280" />
 </td>
 </tr>
 </table>
@@ -124,11 +108,23 @@
 
 ### 🎨 Creative Side
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="350">
+A **HIPA International Photography Merit Award** winner (2023, Diversity — Creative Art Section), capturing documentary, street, and travel stories across India. Every frame is purposeful — rooted in observation, composed with intention.
+
+
+<p align="left">
+  <img title="Photoshop" src="https://skillicons.dev/icons?i=photoshop" width="42" height="42" />
+  <img title="SQL / MySQL" src="https://skillicons.dev/icons?i=mysql" width="42" height="42" />
+  <img title="Anaconda" src="https://skillicons.dev/icons?i=anaconda" width="42" height="42" />
+  <img title="Django" src="https://skillicons.dev/icons?i=django" width="42" height="42" />
+  <img title="Java" src="https://skillicons.dev/icons?i=java" width="42" height="42" />
+  <img title="Spring Boot" src="https://skillicons.dev/icons?i=spring" width="42" height="42" />
+  <img title="Angular" src="https://skillicons.dev/icons?i=angular" width="42" height="42" />
+  <img title="TypeScript" src="https://skillicons.dev/icons?i=ts" width="42" height="42" />  
+  <img title="HTML5" src="https://skillicons.dev/icons?i=html" width="42" height="42" />
+  <img title="CSS3" src="https://skillicons.dev/icons?i=css" width="42" height="42" />
+  <img title="Git" src="https://skillicons.dev/icons?i=git" width="42" height="42" />
 </p>
 
-A **HIPA International Photography Merit Award** winner (2023, Diversity — Creative Art Section), capturing documentary, street, and travel stories across India. Every frame is purposeful — rooted in observation, composed with intention.
 
 | Focus | Details |
 |---|---|
