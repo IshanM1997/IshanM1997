@@ -113,26 +113,13 @@ A **HIPA International Photography Merit Award** winner (2023, Diversity — Cre
 
 <p align="left">
   <img title="Photoshop" src="https://skillicons.dev/icons?i=photoshop" width="42" height="42" />
-  <img title="SQL / MySQL" src="https://skillicons.dev/icons?i=mysql" width="42" height="42" />
-  <img title="Anaconda" src="https://skillicons.dev/icons?i=anaconda" width="42" height="42" />
-  <img title="Django" src="https://skillicons.dev/icons?i=django" width="42" height="42" />
-  <img title="Java" src="https://skillicons.dev/icons?i=java" width="42" height="42" />
-  <img title="Spring Boot" src="https://skillicons.dev/icons?i=spring" width="42" height="42" />
-  <img title="Angular" src="https://skillicons.dev/icons?i=angular" width="42" height="42" />
-  <img title="TypeScript" src="https://skillicons.dev/icons?i=ts" width="42" height="42" />  
-  <img title="HTML5" src="https://skillicons.dev/icons?i=html" width="42" height="42" />
-  <img title="CSS3" src="https://skillicons.dev/icons?i=css" width="42" height="42" />
-  <img title="Git" src="https://skillicons.dev/icons?i=git" width="42" height="42" />
-</p>
+  <img title="Lightroom" src="https://skillicons.dev/icons?i=Lightroom" width="42" height="42" />
+  <img title="Photography" src="https://skillicons.dev/icons?i=Photography" width="42" height="42" />
+  <img title="Explore" src="https://skillicons.dev/icons?i=Explore" width="42" height="42" />
+  <img title="Travel" src="https://skillicons.dev/icons?i=Travel" width="42" height="42" />
+  </p>
 
-
-| Focus | Details |
-|---|---|
-| 📸 Photography | Documentary, street & travel photography |
-| 🗺️ Travel & Exploration | Adventures across Incredible India |
-| 🖌️ Photoshop | Advanced post-processing for refined, emotive imagery |
-| 🎞️ Lightroom | Precision colour grading & catalog management |
-| 🏆 Achievement | HIPA Merit Award, Theme: Diversity (2023) |
+ | 📸 Photography | Documentary, street & travel photography | 🗺️ Travel & Exploration | Adventures across Incredible India | 🖌️ Photoshop | Advanced post-processing for refined, emotive imagery | 🎞️ Lightroom | Precision colour grading & catalog management | 🏆 Achievement | HIPA Merit Award, Theme: Diversity (2023) |
 
 <p align="center">
   <a href="https://www.instagram.com/ishan_mukherjee_1997"><img src="https://img.shields.io/badge/Instagram-181717?style=for-the-badge&logo=instagram&logoColor=E4405F" /></a>
