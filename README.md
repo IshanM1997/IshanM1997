@@ -5,7 +5,7 @@
 <p align="center">🚀 Welcome to my GitHub Universe!</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Java+Full-Stack+%C2%B7+Spring+Boot+%26+Angular;Data+Engineering+%26+Python;Building+clean%2C+scalable+web+architectures;HIPA+Award-Winning+Photographer+%F0%9F%93%B8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Java+Full-Stack+%C2%B7+Spring+Boot+%26+Angular;Data+Engineering+%26+Python;Building+clean%2C+scalable+web+architectures;HIPA+Merit+Award-Winning+Photographer+%F0%9F%93%B8" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -57,12 +57,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IshanM1997&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="GitHub Stats" height="165" />
+  <img src="https://github-stats-extended.vercel.app/api?username=IshanM1997&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="GitHub Stats" height="165" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=IshanM1997&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF" alt="GitHub Streak" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IshanM1997&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=IshanM1997&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF" alt="Top Languages" />
 </p>
 
 ---
@@ -83,7 +83,7 @@
 </p>
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=IshanM1997&theme=github_dark" alt="Top Languages by Commit" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=IshanM1997&theme=github_dark&utcOffset=5.5" alt="Commits by Time" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=IshanM1997&theme=github_dark&utcOffset=5" alt="Commits by Time" />
 </p>
 
 ---
@@ -91,7 +91,7 @@
 ### 🏆 Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=IshanM1997&theme=tokyonight&no-frame=true&column=7&margin-w=8&margin-h=8" alt="Trophies" />
+  <img src="https://github-trophies.vercel.app/?username=IshanM1997&theme=tokyonight&no-frame=true&column=7&margin-w=8&margin-h=8" alt="Trophies" />
 </p>
 
 ---
