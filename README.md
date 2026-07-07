@@ -1,36 +1,39 @@
-<h1 align="center">Hi there, I'm Ishan 👋</h1>
+<h1 align="center">Ciao. I'm Ishan Mukhopadhyay 👋</h1>
+
+<h3 align="center">Fullstack Java Developer & Data Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2EA043&center=true&vCenter=true&width=600&lines=Software+Engineer;Data+Engineer;Building+things+with+data+%26+code;Always+learning+something+new" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Java+Full-Stack+%C2%B7+Spring+Boot+%26+Angular;Data+Engineering+%26+Python;Building+clean%2C+scalable+web+architectures;HIPA+Award-Winning+Photographer+%F0%9F%93%B8" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://YOUR-PORTFOLIO-LINK.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" /></a>
-  <a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://twitter.com/YOUR-HANDLE"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://ishanm1997.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=googlechrome&logoColor=58A6FF" /></a>
+  <a href="https://www.linkedin.com/in/ishan-mukhopadhyay-7ab867123/"><img src="https://img.shields.io/badge/LinkedIn-181717?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>
+  <a href="mailto:ishanmukherjee66@gmail.com"><img src="https://img.shields.io/badge/Email-181717?style=for-the-badge&logo=gmail&logoColor=EA4335" /></a>
+  <a href="https://drive.google.com/file/d/1T8Dd-sF4ZMLOIpghRwhSzZ1O5fXrcFKv/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-181717?style=for-the-badge&logo=googledrive&logoColor=34A853" /></a>
 </p>
 
 ---
 
 ### 🚀 About Me
 
-- 💻 Software/Data Engineer who enjoys turning messy data into useful things
-- 🌱 Currently exploring: *(e.g. distributed systems, MLOps, cloud data platforms — edit me)*
-- 🎯 2026 goal: *(e.g. contribute to open source, ship a side project — edit me)*
-- 💬 Ask me about: *(topics you're comfortable discussing — edit me)*
-- ⚡ Fun fact: *(something personal — edit me)*
+- 💻 Fullstack Java Developer & Data Engineer, building clean, scalable systems out of Kolkata, India
+- 🏢 Currently a Software Engineer working across client projects (insurance-domain platforms) after starting out as a Data Engineer Intern
+- 🌱 Currently exploring: *(e.g. AI/ML integration in enterprise systems, LLMs — edit me)*
+- 📸 Off the keyboard: HIPA Merit Award-winning photographer, documenting India's streets, travel, and stories through the lens
+- 💬 Ask me about: Angular, Spring Boot, ETL pipelines, or photography in India
 
 ---
 
 ### 🛠️ Skills & Tools
 
-<!-- Customize this section with your own stack. Example badges below — swap, add, or remove as needed. -->
+<!-- Free for you to customize — badges below are left blank/placeholder on purpose. -->
+<!-- Add badges from https://shields.io or https://simpleicons.org to match your stack. -->
 
 <p align="left">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Your%20Skill-333333?style=flat-square" />
+  <img src="https://img.shields.io/badge/-Your%20Skill-181717?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Your%20Skill-181717?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Your%20Skill-181717?style=for-the-badge" />
 </p>
 
 ---
@@ -38,18 +41,29 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IshanM1997&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IshanM1997&theme=github-dark&hide_border=true" alt="GitHub Streak" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=IshanM1997&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&count_private=true" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IshanM1997&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF" alt="GitHub Streak" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IshanM1997&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IshanM1997&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF" alt="Top Languages" />
+</p>
+
+---
+
+### 📸 Beyond the Code
+
+A HIPA International Photography Merit Award winner (2023, Diversity — Creative Art Section), capturing documentary, street, and travel stories across India.
+
+<p align="center">
+  <a href="https://www.instagram.com/ishan_mukherjee_1997"><img src="https://img.shields.io/badge/Instagram-181717?style=for-the-badge&logo=instagram&logoColor=E4405F" /></a>
+  <a href="https://www.facebook.com/share/18hwwAx4qs/"><img src="https://img.shields.io/badge/Facebook-181717?style=for-the-badge&logo=facebook&logoColor=1877F2" /></a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=IshanM1997&label=Profile%20Views&color=2EA043&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=IshanM1997&label=Profile%20Views&color=58A6FF&style=flat" alt="Profile Views" />
 </p>
 
-<p align="center"><i>Thanks for stopping by — feel free to explore my repos and connect!</i></p>
+<p align="center"><i>Every frame is purposeful, every commit intentional — thanks for stopping by! 🖤</i></p>
