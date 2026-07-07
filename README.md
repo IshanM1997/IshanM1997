@@ -7,6 +7,10 @@
 </p>
 
 <p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="450">
+</p>
+
+<p align="center">
   <a href="https://ishanm1997.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=googlechrome&logoColor=58A6FF" /></a>
   <a href="https://www.linkedin.com/in/ishan-mukhopadhyay-7ab867123/"><img src="https://img.shields.io/badge/LinkedIn-181717?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>
   <a href="mailto:ishanmukherjee66@gmail.com"><img src="https://img.shields.io/badge/Email-181717?style=for-the-badge&logo=gmail&logoColor=EA4335" /></a>
@@ -16,6 +20,8 @@
 ---
 
 ### 🚀 About Me
+
+> Fullstack Java Developer & Data Engineer dedicated to building clean, scalable web architectures and high-performance data systems. Specializing in robust Python backends and optimized ETL pipelines.
 
 - 💻 Fullstack Java Developer & Data Engineer, building clean, scalable systems out of Kolkata, India
 - 🏢 Currently a Software Engineer working across client projects (insurance-domain platforms) after starting out as a Data Engineer Intern
@@ -27,13 +33,21 @@
 
 ### 🛠️ Skills & Tools
 
-<!-- Free for you to customize — badges below are left blank/placeholder on purpose. -->
-<!-- Add badges from https://shields.io or https://simpleicons.org to match your stack. -->
+<!-- Free for you to customize. Hover over any icon to see its name (native tooltip). -->
+<!-- To edit: change the "i=" value in each URL to any icon slug from https://skillicons.dev -->
+<!-- Full icon list & names: https://github.com/tandpfun/skill-icons#icons -->
 
 <p align="left">
-  <img src="https://img.shields.io/badge/-Your%20Skill-181717?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Your%20Skill-181717?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Your%20Skill-181717?style=for-the-badge" />
+  <img title="Java" src="https://skillicons.dev/icons?i=java" width="48" height="48" />
+  <img title="Spring Boot" src="https://skillicons.dev/icons?i=spring" width="48" height="48" />
+  <img title="Angular" src="https://skillicons.dev/icons?i=angular" width="48" height="48" />
+  <img title="TypeScript" src="https://skillicons.dev/icons?i=ts" width="48" height="48" />
+  <img title="Python" src="https://skillicons.dev/icons?i=python" width="48" height="48" />
+  <img title="SQL / MySQL" src="https://skillicons.dev/icons?i=mysql" width="48" height="48" />
+  <img title="HTML5" src="https://skillicons.dev/icons?i=html" width="48" height="48" />
+  <img title="CSS3" src="https://skillicons.dev/icons?i=css" width="48" height="48" />
+  <img title="Git" src="https://skillicons.dev/icons?i=git" width="48" height="48" />
+  <img title="Your Skill Here" src="https://skillicons.dev/icons?i=azure" width="48" height="48" />
 </p>
 
 ---
@@ -41,7 +55,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IshanM1997&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&count_private=true" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=IshanM1997&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="GitHub Stats" height="165" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=IshanM1997&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF" alt="GitHub Streak" height="165" />
 </p>
 
@@ -51,9 +65,21 @@
 
 ---
 
-### 📸 Beyond the Code
+### 🎨 Creative Side
 
-A HIPA International Photography Merit Award winner (2023, Diversity — Creative Art Section), capturing documentary, street, and travel stories across India.
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="350">
+</p>
+
+A **HIPA International Photography Merit Award** winner (2023, Diversity — Creative Art Section), capturing documentary, street, and travel stories across India. Every frame is purposeful — rooted in observation, composed with intention.
+
+| Focus | Details |
+|---|---|
+| 📸 Photography | Documentary, street & travel photography |
+| 🗺️ Travel & Exploration | Adventures across Incredible India |
+| 🖌️ Photoshop | Advanced post-processing for refined, emotive imagery |
+| 🎞️ Lightroom | Precision colour grading & catalog management |
+| 🏆 Achievement | HIPA Merit Award, Theme: Diversity (2023) |
 
 <p align="center">
   <a href="https://www.instagram.com/ishan_mukherjee_1997"><img src="https://img.shields.io/badge/Instagram-181717?style=for-the-badge&logo=instagram&logoColor=E4405F" /></a>
