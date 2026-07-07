@@ -39,11 +39,6 @@
 
 ### 🛠️ Skills & Tools
 
-<table>
-<tr>
-<td width="60%" valign="top">
-
-**Languages & Tools**:
 <p align="left">
   <img title="Python" src="https://skillicons.dev/icons?i=python" width="42" height="42" />
   <img title="SQL / MySQL" src="https://skillicons.dev/icons?i=mysql" width="42" height="42" />
@@ -57,10 +52,6 @@
   <img title="CSS3" src="https://skillicons.dev/icons?i=css" width="42" height="42" />
   <img title="Git" src="https://skillicons.dev/icons?i=git" width="42" height="42" />
 </p>
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -113,10 +104,10 @@ A **HIPA International Photography Merit Award** winner (2023, Diversity — Cre
 
 <p align="left">
   <img title="Photoshop" src="https://skillicons.dev/icons?i=photoshop" width="42" height="42" />
-  <img title="Lightroom" src="https://skillicons.dev/icons?i=Lightroom" width="42" height="42" />
-  <img title="Photography" src="https://skillicons.dev/icons?i=Photography" width="42" height="42" />
-  <img title="Explore" src="https://skillicons.dev/icons?i=Explore" width="42" height="42" />
-  <img title="Travel" src="https://skillicons.dev/icons?i=Travel" width="42" height="42" />
+  <img title="Lightroom" src="https://img.shields.io/badge/Lightroom-31A8FF?style=for-the-badge&logo=adobelightroomclassic&logoColor=white" height="28" />
+  <img title="Photography" src="https://img.shields.io/badge/Photography-000000?style=for-the-badge&logo=unsplash&logoColor=white" height="28" />
+  <img title="Travel" src="https://img.shields.io/badge/Travel-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white" height="28" />
+  <img title="Explorer" src="https://img.shields.io/badge/%F0%9F%A7%AD_Explorer-2E8B57?style=for-the-badge" height="28" />
   </p>
 
  | 📸 Photography | Documentary, street & travel photography | 🗺️ Travel & Exploration | Adventures across Incredible India | 🖌️ Photoshop | Advanced post-processing for refined, emotive imagery | 🎞️ Lightroom | Precision colour grading & catalog management | 🏆 Achievement | HIPA Merit Award, Theme: Diversity (2023) |
