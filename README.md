@@ -1,6 +1,12 @@
 <h1 align="center">Ciao. I'm Ishan Mukhopadhyay 👋</h1>
 
 <p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&height=50&lines=Ciao.+I'm+Ishan+Mukhopadhyay+%F0%9F%91%8B" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
   <img src="tech-bg.png" width="100%" alt="Ishan Mukhopadhyay Tech Banner" />
 </p>
 
@@ -29,28 +35,33 @@
 <p align="center">
   <img src="about_me_typewriter.gif" alt="About Me" width="100%" />
 </p>
+
+<details>
+<summary align="center"><i>Show as plain text</i></summary>
+
+Fullstack Java Developer & Data Engineer dedicated to building clean, scalable web architectures and high-performance data systems. Specializing in robust Python backends and optimized ETL pipelines.
+
+- 💻 Fullstack Java Developer & Data Engineer, building clean, scalable systems out of Kolkata, India
+- 🏢 Currently a Software Engineer working across client projects (insurance-domain platforms) after starting out as a Data Engineer Intern
+- 🌱 Currently exploring: Data Engineering, ETL pipelines, LLMs
+- 📸 Off the keyboard: HIPA Merit Award-winning photographer, documenting India's streets, travel, and stories through the lens
+- 💬 Ask me about: Angular, Spring Boot, ETL pipelines, or photography in India
+
+</details>
+
 ---
 
 ### 🛠️ Skills & Tools
 
 <p align="center">
-  <img title="Java" src="https://skillicons.dev/icons?i=java" width="46" height="46" />&nbsp;
-  <img title="Spring Boot" src="https://skillicons.dev/icons?i=spring" width="46" height="46" />&nbsp;
-  <img title="Angular" src="https://skillicons.dev/icons?i=angular" width="46" height="46" />&nbsp;
-  <img title="TypeScript" src="https://skillicons.dev/icons?i=ts" width="46" height="46" />&nbsp;
-  <img title="Python" src="https://skillicons.dev/icons?i=python" width="46" height="46" />&nbsp;
-  <img title="SQL / MySQL" src="https://skillicons.dev/icons?i=mysql" width="46" height="46" />&nbsp;
-  <img title="HTML5" src="https://skillicons.dev/icons?i=html" width="46" height="46" />&nbsp;
-  <img title="CSS3" src="https://skillicons.dev/icons?i=css" width="46" height="46" />&nbsp;
-  <img title="Git" src="https://skillicons.dev/icons?i=git" width="46" height="46" />&nbsp;
-  <img title="Azure" src="https://skillicons.dev/icons?i=azure" width="46" height="46" />
-  <img title="Jira" src="https://skillicons.dev/icons?i=jira" width="46" height="46" />&nbsp;
-  <img title="Datadog" src="https://skillicons.dev/icons?i=datadog" width="46" height="46" />&nbsp;
-  <img title="Veracode" src="https://skillicons.dev/icons?i=security" width="46" height="46" />&nbsp;
-  <img title="Bitbucket" src="https://skillicons.dev/icons?i=bitbucket" width="46" height="46" />&nbsp;
-  <img title="Database" src="https://skillicons.dev/icons?i=mysql" width="46" height="46" />&nbsp;
-  <img title="AI / LLM" src="https://skillicons.dev/icons?i=openai" width="46" height="46" />&nbsp;
-  <img title="Debugging" src="https://skillicons.dev/icons?i=vscode" width="46" height="46" />
+  <!-- Core Tech Stack & Tools Cluster -->
+  <img src="https://skillicons.dev/icons?i=java,spring,angular,ts,python,mysql,html,css,git,azure,jira,bitbucket,openai,vscode" />
+</p>
+<p align="center">
+  <!-- Specialty Tools (Custom extensions outside core skillicons palette) -->
+  <a href="https://datadoghq.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/datadog/datadog-original.svg" alt="Datadog" width="40" height="40" style="vertical-align: middle; padding: 3px;" /></a>
+  &nbsp;&nbsp;
+  <a href="https://www.veracode.com" target="_blank" rel="noreferrer"><img src="https://api.iconify.design/simple-icons:veracode.svg?color=%23EA4335" alt="Veracode" width="36" height="36" style="vertical-align: middle; padding: 3px;" /></a>
 </p>
 
 ---
@@ -87,6 +98,21 @@
 <p align="center">
   <img src="creative_typewriter.gif" alt="Creative Side" width="100%" />
 </p>
+
+<details>
+<summary align="center"><i>Show as plain text</i></summary>
+
+A **HIPA International Photography Merit Award** winner (2023, Diversity — Creative Art Section), capturing documentary, street, and travel stories across India. Every frame is purposeful — rooted in observation, composed with intention.
+
+| Focus | Details |
+|---|---|
+| 📸 Photography | Documentary, street & travel photography |
+| 🗺️ Travel & Exploration | Adventures across Incredible India |
+| 🖌️ Photoshop | Advanced post-processing for refined, emotive imagery |
+| 🎞️ Lightroom | Precision colour grading & catalog management |
+| 🏆 Achievement | HIPA Merit Award, Theme: Diversity (2023) |
+
+</details>
 
 <p align="center">
   <a href="https://www.instagram.com/ishan_mukherjee_1997" title="Instagram"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" width="35" height="35" style="fill: #EA4335;" /></a>
