@@ -1,11 +1,7 @@
 <h1 align="center">Ciao. I'm Ishan Mukhopadhyay 👋</h1>
 
-<h3 align="center">Fullstack Java Developer & Data Engineer</h3>
-
-<p align="center">🚀 Welcome to my GitHub Universe!</p>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Java+Full-Stack+%C2%B7+Spring+Boot+%26+Angular;Data+Engineering+%26+Python;Building+clean%2C+scalable+web+architectures;HIPA+Merit+Award-Winning+Photographer+%F0%9F%93%B8" alt="Typing SVG" />
+  <img src="ishan_banner.png" width="850" alt="Ishan Mukhopadhyay banner" />
 </p>
 
 <p align="center">
@@ -13,45 +9,104 @@
 </p>
 
 <p align="center">
-  <a href="https://ishanm1997.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=googlechrome&logoColor=58A6FF" /></a>
-  <a href="https://www.linkedin.com/in/ishan-mukhopadhyay-7ab867123/"><img src="https://img.shields.io/badge/LinkedIn-181717?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>
-  <a href="mailto:ishanmukherjee66@gmail.com"><img src="https://img.shields.io/badge/Email-181717?style=for-the-badge&logo=gmail&logoColor=EA4335" /></a>
-  <a href="https://drive.google.com/file/d/1T8Dd-sF4ZMLOIpghRwhSzZ1O5fXrcFKv/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-181717?style=for-the-badge&logo=googledrive&logoColor=34A853" /></a>
+  <!-- Years Exp: manual, no public API tracks this — bump the "3.8" as time passes -->
+  <img src="https://img.shields.io/badge/Years%20Exp-3.8%2B-FACC15?style=for-the-badge&labelColor=1a1a1a" />
+  <!-- Repo count: LIVE, pulled from the GitHub API automatically — no editing needed -->
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FIshanM1997&label=GitHub%20Repos&query=%24.public_repos&color=FACC15&style=for-the-badge&labelColor=1a1a1a" />
+  <!-- Companies: manual, update when it changes -->
+  <img src="https://img.shields.io/badge/Companies-2-FACC15?style=for-the-badge&labelColor=1a1a1a" />
+</p>
+
+<p align="center">
+  <a href="https://ishanm1997.github.io/Portfolio/" title="Portfolio"><img src="https://cdn.simpleicons.org/googlechrome/FACC15" width="40" height="40" /></a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/ishan-mukhopadhyay-7ab867123/" title="LinkedIn"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="40" height="40" /></a>
+  &nbsp;&nbsp;
+  <a href="mailto:ishanmukherjee66@gmail.com" title="Email"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="40" height="40" /></a>
+  &nbsp;&nbsp;
+  <a href="https://drive.google.com/file/d/1T8Dd-sF4ZMLOIpghRwhSzZ1O5fXrcFKv/view?usp=sharing" title="Resume"><img src="https://cdn.simpleicons.org/googledrive/34A853" width="40" height="40" /></a>
 </p>
 
 ---
 
 ### 🚀 About Me
 
-> Fullstack Java Developer & Data Engineer dedicated to building clean, scalable web architectures and high-performance data systems. Specializing in robust Python backends and optimized ETL pipelines.
+<p align="left">
+  <img src="about_me_typewriter.gif" alt="About Me" width="600" />
+</p>
+
+<!-- Static fallback text (some viewers/clients don't animate GIFs) -->
+<details>
+<summary><i>Show as plain text</i></summary>
+
+Fullstack Java Developer & Data Engineer dedicated to building clean, scalable web architectures and high-performance data systems. Specializing in robust Python backends and optimized ETL pipelines.
 
 - 💻 Fullstack Java Developer & Data Engineer, building clean, scalable systems out of Kolkata, India
 - 🏢 Currently a Software Engineer working across client projects (insurance-domain platforms) after starting out as a Data Engineer Intern
-- 🌱 Currently exploring: Data Engineering, ETL-pipelines, LLMs.
+- 🌱 Currently exploring: Data Engineering, ETL pipelines, LLMs
 - 📸 Off the keyboard: HIPA Merit Award-winning photographer, documenting India's streets, travel, and stories through the lens
 - 💬 Ask me about: Angular, Spring Boot, ETL pipelines, or photography in India
 
+</details>
+
 ---
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="350">
-</p>
+### 🏢 Companies I've Worked At
+
+<!-- Placeholder — swap in your real company names, logos, and dates. -->
+<!-- Logo idea: https://cdn.simpleicons.org/<companyslug>/FACC15 if the company has a Simple Icons entry, otherwise use their favicon URL. -->
+
+| Company | Role | Duration |
+|---|---|---|
+| *(Company A — edit me)* | Software Engineer | *(e.g. 2023 – Present)* |
+| *(Company B — edit me)* | Data Engineer Intern | *(e.g. 2022 – 2023)* |
+
+---
 
 ### 🛠️ Skills & Tools
 
+<table>
+<tr>
+<td width="60%" valign="top">
+
+**Languages & Tools** — animated, in the same style as popular "moving logo" tech stacks:
+
+<!-- These are from the well-known "Moving Logos" animated GIF set (linked below).
+     I pulled a representative sample — since they're unlabeled thumbnails, preview
+     the full sheet and swap in the exact ones for your stack: 
+     https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub#moving-logos -->
+
 <p align="left">
-  <img title="Python" src="https://skillicons.dev/icons?i=python" width="42" height="42" />
-  <img title="SQL / MySQL" src="https://skillicons.dev/icons?i=mysql" width="42" height="42" />
-  <img title="Anaconda" src="https://skillicons.dev/icons?i=anaconda" width="42" height="42" />
-  <img title="Django" src="https://skillicons.dev/icons?i=django" width="42" height="42" />
+  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="55" />
+  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="55" />
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="55" />
+  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="55" />
+  <img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="55" />
+  <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="55" />
+  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="55" />
+</p>
+
+**Static alternative** (hover any icon for its name):
+
+<p align="left">
   <img title="Java" src="https://skillicons.dev/icons?i=java" width="42" height="42" />
   <img title="Spring Boot" src="https://skillicons.dev/icons?i=spring" width="42" height="42" />
   <img title="Angular" src="https://skillicons.dev/icons?i=angular" width="42" height="42" />
-  <img title="TypeScript" src="https://skillicons.dev/icons?i=ts" width="42" height="42" />  
+  <img title="TypeScript" src="https://skillicons.dev/icons?i=ts" width="42" height="42" />
+  <img title="Python" src="https://skillicons.dev/icons?i=python" width="42" height="42" />
+  <img title="SQL / MySQL" src="https://skillicons.dev/icons?i=mysql" width="42" height="42" />
   <img title="HTML5" src="https://skillicons.dev/icons?i=html" width="42" height="42" />
   <img title="CSS3" src="https://skillicons.dev/icons?i=css" width="42" height="42" />
   <img title="Git" src="https://skillicons.dev/icons?i=git" width="42" height="42" />
+  <img title="Your Skill Here" src="https://skillicons.dev/icons?i=azure" width="42" height="42" />
 </p>
+
+</td>
+<td width="40%" valign="top" align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="280" />
+</td>
+</tr>
+</table>
 
 ---
 
@@ -99,22 +154,34 @@
 
 ### 🎨 Creative Side
 
-A **HIPA International Photography Merit Award** winner (2023, Diversity — Creative Art Section), capturing documentary, street, and travel stories across India. Every frame is purposeful — rooted in observation, composed with intention.
-
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="350">
+</p>
 
 <p align="left">
-  <img title="Photoshop" src="https://skillicons.dev/icons?i=photoshop" width="42" height="42" />
-  <img title="Lightroom" src="https://img.shields.io/badge/Lightroom-31A8FF?style=for-the-badge&logo=adobelightroomclassic&logoColor=white" height="28" />
-  <img title="Photography" src="https://img.shields.io/badge/Photography-000000?style=for-the-badge&logo=unsplash&logoColor=white" height="28" />
-  <img title="Travel" src="https://img.shields.io/badge/Travel-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white" height="28" />
-  <img title="Explorer" src="https://img.shields.io/badge/%F0%9F%A7%AD_Explorer-2E8B57?style=for-the-badge" height="28" />
-  </p>
+  <img src="creative_typewriter.gif" alt="Creative Side" width="600" />
+</p>
 
- | 📸 Photography | Documentary, street & travel photography | 🗺️ Travel & Exploration | Adventures across Incredible India | 🖌️ Photoshop | Advanced post-processing for refined, emotive imagery | 🎞️ Lightroom | Precision colour grading & catalog management | 🏆 Achievement | HIPA Merit Award, Theme: Diversity (2023) |
+<!-- Static fallback text -->
+<details>
+<summary><i>Show as plain text</i></summary>
+
+A **HIPA International Photography Merit Award** winner (2023, Diversity — Creative Art Section), capturing documentary, street, and travel stories across India. Every frame is purposeful — rooted in observation, composed with intention.
+
+| Focus | Details |
+|---|---|
+| 📸 Photography | Documentary, street & travel photography |
+| 🗺️ Travel & Exploration | Adventures across Incredible India |
+| 🖌️ Photoshop | Advanced post-processing for refined, emotive imagery |
+| 🎞️ Lightroom | Precision colour grading & catalog management |
+| 🏆 Achievement | HIPA Merit Award, Theme: Diversity (2023) |
+
+</details>
 
 <p align="center">
-  <a href="https://www.instagram.com/ishan_mukherjee_1997"><img src="https://img.shields.io/badge/Instagram-181717?style=for-the-badge&logo=instagram&logoColor=E4405F" /></a>
-  <a href="https://www.facebook.com/share/18hwwAx4qs/"><img src="https://img.shields.io/badge/Facebook-181717?style=for-the-badge&logo=facebook&logoColor=1877F2" /></a>
+  <a href="https://www.instagram.com/ishan_mukherjee_1997" title="Instagram"><img src="https://cdn.simpleicons.org/instagram/E4405F" width="40" height="40" /></a>
+  &nbsp;&nbsp;
+  <a href="https://www.facebook.com/share/18hwwAx4qs/" title="Facebook"><img src="https://cdn.simpleicons.org/facebook/1877F2" width="40" height="40" /></a>
 </p>
 
 ---
