@@ -52,16 +52,17 @@ Fullstack Java Developer & Data Engineer dedicated to building clean, scalable w
 ---
 
 ### 🛠️ Skills & Tools
-
 <p align="center">
-  <!-- Core Tech Stack & Tools Cluster -->
-  <img src="https://skillicons.dev/icons?i=java,spring,angular,ts,python,mysql,html,css,git,azure,jira,bitbucket,openai,vscode" />
+  <!-- Core stack: verified valid skillicons.dev slugs -->
+  <img src="https://skillicons.dev/icons?i=py,java,spring,mysql,angular,ts,html,css,anaconda,idea,git,vscode" />
 </p>
 <p align="center">
-  <!-- Specialty Tools (Custom extensions outside core skillicons palette) -->
-  <a href="https://datadoghq.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/datadog/datadog-original.svg" alt="Datadog" width="40" height="40" style="vertical-align: middle; padding: 3px;" /></a>
+  <!-- Datadog, Gemini, Claude: real Simple Icons logos (these three aren't in skillicons.dev at all) -->
+  <a href="https://datadoghq.com" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/datadog/632CA6" width="40" height="40" /></a>
   &nbsp;&nbsp;
-  <a href="https://www.veracode.com" target="_blank" rel="noreferrer"><img src="https://api.iconify.design/simple-icons:veracode.svg?color=%23EA4335" alt="Veracode" width="36" height="36" style="vertical-align: middle; padding: 3px;" /></a>
+  <a href="https://gemini.google.com" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/googlegemini/8E75B2" width="40" height="40" /></a>
+  &nbsp;&nbsp;
+  <a href="https://claude.ai" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/anthropic/D97757" width="40" height="40" /></a>
 </p>
 
 ---
