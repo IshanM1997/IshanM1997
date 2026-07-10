@@ -1,6 +1,7 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&height=50&lines=Welcome.+To my GitHub Profile+%F0%9F%91%8B" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=EA4335&center=true&vCenter=true&width=140&height=50&lines=Welcome." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FACC15&center=true&vCenter=true&width=380&height=50&lines=To+my+GitHub+Profile+%F0%9F%91%8B" alt="Typing SVG" />
   </a>
 </p>
 
@@ -18,9 +19,7 @@
 
 <p align="center">
   <a href="https://ishanm1997.github.io/Portfolio/" title="Portfolio"><img src="https://cdn.simpleicons.org/googlechrome/FACC15" width="35" height="35" /></a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/ishan-mukhopadhyay-7ab867123/" title="LinkedIn"><img src="https://cdn.simpleicons.org/linkedin/EA4335" width="35" height="35" /></a>
-&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/ishan-mukhopadhyay-7ab867123/" title="LinkedIn"><img src="https://cdn.simpleicons.org/linkedin/EA4335/ffffff" width="35" height="35" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="mailto:ishanmukherjee66@gmail.com" title="Email"><img src="https://cdn.simpleicons.org/gmail/FACC15" width="35" height="35" /></a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://drive.google.com/file/d/1T8Dd-sF4ZMLOIpghRwhSzZ1O5fXrcFKv/view?usp=sharing" title="Resume"><img src="https://cdn.simpleicons.org/googledrive/EA4335" width="35" height="35" /></a>
