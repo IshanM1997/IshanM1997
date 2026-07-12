@@ -48,7 +48,7 @@ lines below with your own 3–4 sentences.
   <tr>
     <td align="center" width="33%">
       <b>Backend</b><br><br>
-      <img src="https://skillicons.dev/icons?i=django,python,java,spring" />
+      <img src="https://skillicons.dev/icons?i=python,java,spring" />
     </td>
     <td align="center" width="33%">
       <b>Frontend</b><br><br>
@@ -56,7 +56,7 @@ lines below with your own 3–4 sentences.
     </td>
     <td align="center" width="33%">
       <b>Tools & Platforms</b><br><br>
-      <img src="https://skillicons.dev/icons?i=git,idea,eclipse,vscode,anaconda,github" />
+      <img src="https://skillicons.dev/icons?i=git,vscode,github,anaconda" />
     </td>
   </tr>
   <tr>
@@ -65,15 +65,38 @@ lines below with your own 3–4 sentences.
       <img src="https://skillicons.dev/icons?i=mysql,postgres" />
     </td>
     <td align="center" width="33%">
+      <b>Data Engineering</b><br><br>
+      <img src="https://cdn.simpleicons.org/apachespark/EA4335" width="35" height="35" />
+      <img src="https://cdn.simpleicons.org/apacheairflow/FACC15" width="35" height="35" />
+      <br><small>PySpark · ETL / ELT</small>
+    </td>
+    <td align="center" width="33%">
+      <b>APIs & Integration</b><br><br>
+      <img src="https://cdn.simpleicons.org/postman/EA4335" width="35" height="35" />
+      <img src="https://cdn.simpleicons.org/swagger/FACC15" width="35" height="35" />
+      <br><small>REST APIs · OpenAPI</small>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <b>Testing & Quality</b><br><br>
+      <img src="https://cdn.simpleicons.org/junit/EA4335" width="35" height="35" />
+      <img src="https://cdn.simpleicons.org/mockito/FACC15" width="35" height="35" />
+      <img src="https://cdn.simpleicons.org/sonarqube/8E75B2" width="35" height="35" />
+    </td>
+    <td align="center" width="33%">
+      <b>Productivity & AI Workflow</b><br><br>
+      <img src="https://cdn.simpleicons.org/githubcopilot/EA4335" width="35" height="35" />
+      <img src="https://cdn.simpleicons.org/intellijidea/FACC15" width="35" height="35" />
+      <img src="https://cdn.simpleicons.org/jira/8E75B2" width="35" height="35" />
+    </td>
+    <td align="center" width="33%">
       <b>AI Tools I Use</b><br><br>
       <a href="https://datadoghq.com" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/datadog/632CA6" width="35" height="35" /></a>
       &nbsp;&nbsp;
       <a href="https://gemini.google.com" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/googlegemini/8E75B2" width="35" height="35" /></a>
       &nbsp;&nbsp;
       <a href="https://claude.ai" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/anthropic/D97757" width="35" height="35" /></a>
-    </td>
-    <td align="center" width="33%">
-      <!-- empty cell to complete the 3x2 grid — remove this <td> entirely if you'd rather have the row only span 2 columns -->
     </td>
   </tr>
 </table>
