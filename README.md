@@ -66,43 +66,31 @@ lines below with your own 3–4 sentences.
     </td>
     <td align="center" width="33%">
       <b>Data Engineering</b><br><br>
-      <img src="https://cdn.simpleicons.org/apachespark/EA4335" width="35" height="35" title="Apache Spark" />
-      &nbsp;&nbsp;
-      <img src="https://cdn.simpleicons.org/apacheairflow/FACC15" width="35" height="35" title="Apache Airflow" />
+      <img src="https://skillicons.dev/icons?i=apache,airflow" title="Apache Spark, Apache Airflow" />
       <br><small>PySpark · ETL / ELT</small>
     </td>
     <td align="center" width="33%">
       <b>APIs & Integration</b><br><br>
-      <img src="https://cdn.simpleicons.org/postman/EA4335" width="35" height="35" title="Postman" />
-      &nbsp;&nbsp;
-      <img src="https://cdn.simpleicons.org/swagger/FACC15" width="35" height="35" title="Swagger / OpenAPI" />
+      <img src="https://skillicons.dev/icons?i=postman,swagger" title="Postman, Swagger / OpenAPI" />
       <br><small>REST APIs · OpenAPI</small>
     </td>
   </tr>
   <tr>
     <td align="center" width="33%">
       <b>Testing & Quality</b><br><br>
-      <img src="https://skillicons.dev/icons?i=junit" title="JUnit" />
-      &nbsp;&nbsp;
-      <img src="https://cdn.simpleicons.org/mockito/EA4335" width="35" height="35" title="Mockito" />
-      &nbsp;&nbsp;
-      <img src="https://cdn.simpleicons.org/sonarqube/FACC15" width="35" height="35" title="SonarQube" />
+      <img src="https://skillicons.dev/icons?i=junit,docker,sonarqube" title="JUnit, Docker, SonarQube" />
     </td>
     <td align="center" width="33%">
       <b>Productivity & AI Workflow</b><br><br>
-      <img src="https://cdn.simpleicons.org/githubcopilot/EA4335" width="35" height="35" title="GitHub Copilot" />
-      &nbsp;&nbsp;
-      <img src="https://skillicons.dev/icons?i=idea" title="IntelliJ IDEA" />
-      &nbsp;&nbsp;
-      <img src="https://cdn.simpleicons.org/jira/FACC15" width="35" height="35" title="Jira" />
+      <img src="https://skillicons.dev/icons?i=github,idea,jira" title="GitHub, IntelliJ IDEA, Jira" />
     </td>
     <td align="center" width="33%">
       <b>AI Tools I Use</b><br><br>
-      <a href="https://datadoghq.com" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/datadog/632CA6" width="35" height="35" title="Datadog" /></a>
+      <a href="https://datadoghq.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=datadog" title="Datadog" /></a>
       &nbsp;&nbsp;
-      <a href="https://gemini.google.com" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/googlegemini/8E75B2" width="35" height="35" title="Google Gemini" /></a>
+      <a href="https://gemini.google.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=google" title="Google AI" /></a>
       &nbsp;&nbsp;
-      <a href="https://claude.ai" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/anthropic/D97757" width="35" height="35" title="Claude AI" /></a>
+      <a href="https://claude.ai" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=python" title="Claude AI" /></a>
     </td>
   </tr>
 </table>
