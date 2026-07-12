@@ -69,6 +69,9 @@ lines below with your own 3–4 sentences.
       <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://skills.syvixor.com/api/icons?i=git" title="Git" alt="Git" height="40" /></a>
       <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://skills.syvixor.com/api/icons?i=vscode" title="Visual Studio Code" alt="Visual Studio Code" height="40" /></a>
       <a href="https://github.com" target="_blank" rel="noreferrer"><img src="https://skills.syvixor.com/api/icons?i=github" title="GitHub" alt="GitHub" height="40" /></a>
+      <a href="https://jupyter.org/" target="_blank" rel="noreferrer"><img src="https://skills.syvixor.com/api/icons?i=jupyter&perline=12&radius=25" title="Jupyter Notebook" alt="Jupyter Notebook" height="40" /></a>
+      <a href="https://www.jetbrains.com/pycharm/features/" target="_blank" rel="noreferrer"><img src="https://skills.syvixor.com/api/icons?i=pycharm&perline=12&radius=25" title="PyCharm" alt="PyCharm" height="40" /></a>
+      <a href="https://notepad-plus-plus.org/" target="_blank" rel="noreferrer"><img src="https://skills.syvixor.com/api/icons?i=notepadplusplus&perline=12&radius=25" title="Notepad++" alt="Notepad++" height="40" /></a>
       <a href="https://www.anaconda.com/" target="_blank" rel="noreferrer"><img src="https://skills.syvixor.com/api/icons?i=anaconda" title="Anaconda" alt="Anaconda" height="40" /></a>
     </td>
   </tr>
@@ -120,9 +123,7 @@ lines below with your own 3–4 sentences.
 
 <div>
   <!-- Card 1 -->
-  <a href="https://github.com/IshanM1997/PySpark-Cleaning-Pipeline" target="_blank" style="text-decoration: none;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=IshanM1997&repo=PySpark-Cleaning-Pipeline&theme=tokyonight&description=Scalable+ETL+data+cleaning+pipeline.+Built+using+PySpark+and+optimized+for+large-scale+unstructured+datasets.&show_owner=false" alt="PySpark Cleaning Pipeline" />
-  </a>
+  <a href="https://github.com/IshanM1997/PySpark-Cleaning-Pipeline" target="_blank" style="text-decoration: none;" alt="PySpark Cleaning Pipeline" ></a>
   <!-- Card 2 -->
   <a href="https://github.com/IshanM1997/CSV-to-BigQuery" target="_blank" style="text-decoration: none;">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=IshanM1997&repo=CSV-to-BigQuery&theme=tokyonight&description=Automated+data+ingestion+engine+converting+raw+local+CSV+streams+into+structured+BigQuery+data+warehouses.&show_owner=false" alt="CSV to BigQuery" />
@@ -170,6 +171,28 @@ want a personal touch — otherwise feel free to delete it entirely.
 <h4 align="center">Explorer · Adventurer · Foodie · Every frame is an authentic visual story.</h4>
 
 A HIPA Merit Award-winning photographer dedicated to experiencing and capturing the vibrant soul of Incredible India. Armed with Nikon Z6III & D5300 and refined by advanced Adobe Photoshop editing — specializing in documentary, street, and travel photography.
+
+
+### 🛠️ Skills & Tools
+
+<table>
+  <tr>
+    <!-- Photo Editing -->
+    <td align="center" width="33%" valign="top">
+      <b>Photo Editing</b><br><br>
+      <a><img src="https://skills.syvixor.com/api/icons?i=adobephotoshop&perline=12&radius=25" title="Photoshop" alt="Photoshop" height="40" /></a>
+      <a><img src="https://skills.syvixor.com/api/icons?i=adobelightroom&perline=12&radius=25" title="Lightroom" alt="Lightroom" height="40" /></a>
+      <a><img src="https://skills.syvixor.com/api/icons?i=adobeillustrator&perline=12&radius=25" title="Illustrator" alt="Illustrator" height="40" /></a>
+    </td>
+    <!-- Video Editing -->
+    <td align="center" width="33%" valign="top">
+      <b>Video Editing</b><br><br>
+      <a><img src="https://skills.syvixor.com/api/icons?i=adobepremierepro&perline=12&radius=25" title="PremierPro" alt="PremierPro" height="40" /></a>
+      <a><img src="https://skills.syvixor.com/api/icons?i=filmora&perline=12&radius=25" title="Filmora" alt="Filmora" height="40" /></a>
+    </td>
+  </tr>
+</table>
+
 
 ---
 
