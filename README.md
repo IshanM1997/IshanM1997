@@ -121,26 +121,11 @@ lines below with your own 3–4 sentences.
 
 ### 📌 Featured Projects
 
-<div>
-  <!-- Card 1 -->
-  <a href="https://github.com/IshanM1997/PySpark-Cleaning-Pipeline" target="_blank" style="text-decoration: none;" alt="PySpark Cleaning Pipeline" ></a>
-  <!-- Card 2 -->
-  <a href="https://github.com/IshanM1997/CSV-to-BigQuery" target="_blank" style="text-decoration: none;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=IshanM1997&repo=CSV-to-BigQuery&theme=tokyonight&description=Automated+data+ingestion+engine+converting+raw+local+CSV+streams+into+structured+BigQuery+data+warehouses.&show_owner=false" alt="CSV to BigQuery" />
-  </a>
-</div>
-<br>
-<div>
-  <!-- Card 3 -->
-  <a href="https://github.com/IshanM1997/Real-time-pipeline-monitor" target="_blank" style="text-decoration: none;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=IshanM1997&repo=Real-time-pipeline-monitor&theme=tokyonight&description=Live+observability+dashboard+tracking+data+freshness+metrics+and+ETL+health+states.&show_owner=false" alt="Real time pipeline monitor" />
-  </a>
-  <!-- Card 4 -->
-  <a href="https://github.com/IshanM1997/E-commerce-website" target="_blank" style="text-decoration: none;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=IshanM1997&repo=E-commerce-website&theme=tokyonight&description=ShopSphere:+Full-stack+monolith+featuring+secure+payment+gateways,+stateful+carts,+and+Angular+views.&show_owner=false" alt="ShopSphere E-Commerce" />
-  </a>
-</div>
-
+| ⚙️ Data Engineering | ☕ Java & Full-Stack |
+| :--- | :--- |
+| **[PySpark-Cleaning-Pipeline](https://github.com/IshanM1997/PySpark-Cleaning-Pipeline)**<br>📑 *Scalable ETL data cleaning pipeline designed and optimized for processing large-scale unstructured datasets.*<br>🛠️ `PySpark` `Python` `Apache Spark` | **[ShopSphere — E-Commerce Platform](https://github.com/IshanM1997/E-commerce-website)**<br>📑 *Full-stack e-commerce monolith featuring secure payment gateways, stateful user shopping carts, and dynamic frontend views.*<br>🛠️ `Java` `Spring Boot` `Angular` `TypeScript` |
+| **[CSV-to-BigQuery](https://github.com/IshanM1997/CSV-to-BigQuery)**<br>📑 *Automated data ingestion engine converting raw local CSV streams into structured BigQuery data warehouses.*<br>🛠️ `Python` `Google BigQuery` `ETL` | **[Java Backend Service 2](https://github.com/IshanM1997/)**<br>📑 *Description of your second Java repository goes here. Highlight key features and core application logic.*<br>🛠️ `Java` `Spring Boot` `MySQL` |
+| **[Real-time-pipeline-monitor](https://github.com/IshanM1997/Real-time-pipeline-monitor)**<br>📑 *Live observability dashboard tracking data freshness metrics, stream volume variances, and ETL health states.*<br>🛠️ `Python` `Apache Airflow` `Datadog` | **[Java Backend Service 3](https://github.com/IshanM1997/)**<br>📑 *Description of your third Java repository goes here. Highlight framework mechanics or architecture.*<br>🛠️ `Java` `JUnit` `Docker` |
 ### 📊 GitHub Analytics & Profile Summary
 
 <p align="center">
