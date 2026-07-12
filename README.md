@@ -4,7 +4,9 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Years%20Exp-3.8%2B-EA4335?style=for-the-badge&labelColor=1a1a1a" />
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FIshanM1997&label=GitHub%20Repos&query=%24.public_repos&color=FACC15&style=for-the-badge&labelColor=1a1a1a" />
+  <a href="https://github.com/IshanM1997" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/GitHub%20Repos-30-FACC15?logo=github&style=for-the-badge&labelColor=1a1a1a" alt="GitHub Repositories" />
+  </a>
   <img src="https://img.shields.io/badge/Currently%20at-Cognizant-EA4335?style=for-the-badge&labelColor=1a1a1a" />
 </p>
 
