@@ -46,64 +46,101 @@ lines below with your own 3–4 sentences.
 
 <table>
   <tr>
-    <td align="center" width="33%">
+    <!-- BACKEND -->
+    <td align="center" width="33%" valign="top">
       <b>Backend</b><br><br>
-      <img src="https://skillicons.dev/icons?i=python,java,spring" title="Python, Java, Spring Boot" />
+      <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://skills.syvixor.com/api/icons?i=python" title="Python" alt="Python" height="40" /></a>
+      <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://skills.syvixor.com/api/icons?i=java" title="Java" alt="Java" height="40" /></a>
+      <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"><img src="https://skills.syvixor.com/api/icons?i=spring" title="Spring Boot" alt="Spring Boot" height="40" /></a>
     </td>
-    <td align="center" width="33%">
+    <!-- FRONTEND -->
+    <td align="center" width="33%" valign="top">
       <b>Frontend</b><br><br>
-      <img src="https://skillicons.dev/icons?i=angular,ts,html,css,bootstrap" title="Angular, TypeScript, HTML, CSS, Bootstrap" />
+      <a href="https://angular.dev/" target="_blank" rel="noreferrer"><img src="https://skills.syvixor.com/api/icons?i=angular" title="Angular" alt="Angular" height="40" /></a>
+      <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://skills.syvixor.com/api/icons?i=ts" title="TypeScript" alt="TypeScript" height="40" /></a>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"><img src="https://skills.syvixor.com/api/icons?i=html" title="HTML5" alt="HTML5" height="40" /></a>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://skills.syvixor.com/api/icons?i=css" title="CSS3" alt="CSS3" height="40" /></a>
+      <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://skills.syvixor.com/api/icons?i=bootstrap" title="Bootstrap" alt="Bootstrap" height="40" /></a>
     </td>
-    <td align="center" width="33%">
+    <!-- TOOLS & PLATFORMS -->
+    <td align="center" width="33%" valign="top">
       <b>Tools & Platforms</b><br><br>
-      <img src="https://skillicons.dev/icons?i=git,vscode,github,anaconda" title="Git, VS Code, GitHub, Anaconda" />
+      <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://skills.syvixor.com/api/icons?i=git" title="Git" alt="Git" height="40" /></a>
+      <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://skills.syvixor.com/api/icons?i=vscode" title="Visual Studio Code" alt="Visual Studio Code" height="40" /></a>
+      <a href="https://github.com" target="_blank" rel="noreferrer"><img src="https://skills.syvixor.com/api/icons?i=github" title="GitHub" alt="GitHub" height="40" /></a>
+      <a href="https://www.anaconda.com/" target="_blank" rel="noreferrer"><img src="https://skills.syvixor.com/api/icons?i=anaconda" title="Anaconda" alt="Anaconda" height="40" /></a>
     </td>
   </tr>
   <tr>
-    <td align="center" width="33%">
+    <!-- DATABASES -->
+    <td align="center" width="33%" valign="top">
       <b>Databases</b><br><br>
-      <img src="https://skillicons.dev/icons?i=mysql,postgres" title="MySQL, PostgreSQL" />
+      <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://skills.syvixor.com/api/icons?i=mysql" title="MySQL" alt="MySQL" height="40" /></a>
+      <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://skills.syvixor.com/api/icons?i=postgres" title="PostgreSQL" alt="PostgreSQL" height="40" /></a>
     </td>
-    <td align="center" width="33%">
+    <!-- DATA ENGINEERING -->
+    <td align="center" width="33%" valign="top">
       <b>Data Engineering</b><br><br>
-      <img src="https://skillicons.dev/icons?i=apache,airflow" title="Apache Spark, Apache Airflow" />
+      <a href="https://spark.apache.org/" target="_blank" rel="noreferrer"><img src="https://skills.syvixor.com/api/icons?i=apache" title="Apache Spark" alt="Apache Spark" height="40" /></a>
+      <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer"><img src="https://skills.syvixor.com/api/icons?i=airflow" title="Apache Airflow" alt="Apache Airflow" height="40" /></a>
       <br><small>PySpark · ETL / ELT</small>
     </td>
-    <td align="center" width="33%">
+    <!-- APIS & INTEGRATION -->
+    <td align="center" width="33%" valign="top">
       <b>APIs & Integration</b><br><br>
-      <img src="https://skillicons.dev/icons?i=postman,swagger" title="Postman, Swagger / OpenAPI" />
+      <a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://skills.syvixor.com/api/icons?i=postman" title="Postman" alt="Postman" height="40" /></a>
+      <a href="https://swagger.io/" target="_blank" rel="noreferrer"><img src="https://skills.syvixor.com/api/icons?i=swagger" title="Swagger / OpenAPI" alt="Swagger / OpenAPI" height="40" /></a>
       <br><small>REST APIs · OpenAPI</small>
     </td>
   </tr>
   <tr>
-    <td align="center" width="33%">
+    <!-- TESTING & QUALITY -->
+    <td align="center" width="33%" valign="top">
       <b>Testing & Quality</b><br><br>
-      <img src="https://skillicons.dev/icons?i=junit,docker,sonarqube" title="JUnit, Docker, SonarQube" />
+      <a href="https://junit.org/junit5/" target="_blank" rel="noreferrer"><img src="https://skills.syvixor.com/api/icons?i=junit" title="JUnit" alt="JUnit" height="40" /></a>
+      <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://skills.syvixor.com/api/icons?i=docker" title="Docker" alt="Docker" height="40" /></a>
+      <a href="https://www.sonarsource.com/products/sonarqube/" target="_blank" rel="noreferrer"><img src="https://skills.syvixor.com/api/icons?i=sonarqube" title="SonarQube" alt="SonarQube" height="40" /></a>
     </td>
-    <td align="center" width="33%">
-      <b>Productivity & AI Workflow</b><br><br>
-      <img src="https://skillicons.dev/icons?i=github,idea,jira" title="GitHub, IntelliJ IDEA, Jira" />
+    <!-- PRODUCTIVITY & WORKFLOW -->
+    <td align="center" width="33%" valign="top">
+      <b>Productivity & Workflow</b><br><br>
+      <a href="https://github.com" target="_blank" rel="noreferrer"><img src="https://skills.syvixor.com/api/icons?i=github" title="GitHub" alt="GitHub" height="40" /></a>
+      <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"><img src="https://skills.syvixor.com/api/icons?i=idea" title="IntelliJ IDEA" alt="IntelliJ IDEA" height="40" /></a>
+      <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"><img src="https://skills.syvixor.com/api/icons?i=jira" title="Jira" alt="Jira" height="40" /></a>
     </td>
-    <td align="center" width="33%">
-      <b>AI Tools I Use</b><br><br>
-      <a href="https://datadoghq.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=datadog" title="Datadog" /></a>
-      &nbsp;&nbsp;
-      <a href="https://gemini.google.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=google" title="Google AI" /></a>
-      &nbsp;&nbsp;
-      <a href="https://claude.ai" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=python" title="Claude AI" /></a>
+    <!-- AI TOOLS I USE -->
+    <td align="center" width="33%" valign="top">
+      <b>AI & Observability Tools</b><br><br>
+      <a href="https://www.datadoghq.com/" target="_blank" rel="noreferrer"><img src="https://skills.syvixor.com/api/icons?i=datadog" title="Datadog" alt="Datadog" height="40" /></a>
+      <a href="https://gemini.google.com" target="_blank" rel="noreferrer"><img src="https://skills.syvixor.com/api/icons?i=google" title="Google Gemini AI" alt="Google Gemini AI" height="40" /></a>
+      <a href="https://www.anthropic.com/claude" target="_blank" rel="noreferrer"><img src="https://skills.syvixor.com/api/icons?i=claude" title="Claude AI" alt="Claude AI" height="40" /></a>
     </td>
   </tr>
 </table>
 
 ### 📌 Featured Projects
 
-
-|---|---|---|
-| [PySpark-Cleaning-Pipeline](https://github.com/IshanM1997/PySpark-Cleaning-Pipeline) | [CSV-to-BigQuery](https://github.com/IshanM1997/CSV-to-BigQuery) | [Real-time-pipeline-monitor](https://github.com/IshanM1997/Real-time-pipeline-monitor) |---
-
-|---|---|---|
-| [ ShopSphere — Full-Stack E-Commerce Platform](https://github.com/IshanM1997/E-commerce-website) | [YOUR-JAVA-REPO-2](https://github.com/IshanM1997/YOUR-JAVA-REPO-2) | [YOUR-JAVA-REPO-3](https://github.com/IshanM1997/YOUR-JAVA-REPO-3) |
-
+<div>
+  <!-- Card 1 -->
+  <a href="https://github.com/IshanM1997/PySpark-Cleaning-Pipeline" target="_blank" style="text-decoration: none;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=IshanM1997&repo=PySpark-Cleaning-Pipeline&theme=tokyonight&description=Scalable+ETL+data+cleaning+pipeline.+Built+using+PySpark+and+optimized+for+large-scale+unstructured+datasets.&show_owner=false" alt="PySpark Cleaning Pipeline" />
+  </a>
+  <!-- Card 2 -->
+  <a href="https://github.com/IshanM1997/CSV-to-BigQuery" target="_blank" style="text-decoration: none;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=IshanM1997&repo=CSV-to-BigQuery&theme=tokyonight&description=Automated+data+ingestion+engine+converting+raw+local+CSV+streams+into+structured+BigQuery+data+warehouses.&show_owner=false" alt="CSV to BigQuery" />
+  </a>
+</div>
+<br>
+<div>
+  <!-- Card 3 -->
+  <a href="https://github.com/IshanM1997/Real-time-pipeline-monitor" target="_blank" style="text-decoration: none;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=IshanM1997&repo=Real-time-pipeline-monitor&theme=tokyonight&description=Live+observability+dashboard+tracking+data+freshness+metrics+and+ETL+health+states.&show_owner=false" alt="Real time pipeline monitor" />
+  </a>
+  <!-- Card 4 -->
+  <a href="https://github.com/IshanM1997/E-commerce-website" target="_blank" style="text-decoration: none;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=IshanM1997&repo=E-commerce-website&theme=tokyonight&description=ShopSphere:+Full-stack+monolith+featuring+secure+payment+gateways,+stateful+carts,+and+Angular+views.&show_owner=false" alt="ShopSphere E-Commerce" />
+  </a>
+</div>
 
 ### 📊 GitHub Analytics & Profile Summary
 
@@ -116,8 +153,6 @@ lines below with your own 3–4 sentences.
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=IshanM1997&layout=compact&hide_border=true&bg_color=0D1117&title_color=FACC15&text_color=FFFFFF" alt="Top Languages" width="48%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IshanM1997&theme=github_dark" alt="Top Languages by Repo" width="48%" />
 </p>
-
----
 
 ### 📈 Contribution Activity
 
