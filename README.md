@@ -77,14 +77,13 @@ lines below with your own 3–4 sentences.
     <td align="center" width="33%" valign="top">
       <b>Databases</b><br><br>
       <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://skills.syvixor.com/api/icons?i=mysql" title="MySQL" alt="MySQL" height="40" /></a>
-      <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://skills.syvixor.com/api/icons?i=postgres" title="PostgreSQL" alt="PostgreSQL" height="40" /></a>
+      <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://skills.syvixor.com/api/icons?i=postgresql&perline=12&radius=40" title="PostgreSQL" alt="PostgreSQL" height="40" /></a>
     </td>
     <!-- DATA ENGINEERING -->
     <td align="center" width="33%" valign="top">
       <b>Data Engineering</b><br><br>
       <a href="https://spark.apache.org/" target="_blank" rel="noreferrer"><img src="https://skills.syvixor.com/api/icons?i=apache" title="Apache Spark" alt="Apache Spark" height="40" /></a>
       <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer"><img src="https://skills.syvixor.com/api/icons?i=airflow" title="Apache Airflow" alt="Apache Airflow" height="40" /></a>
-      <br><small>PySpark · ETL / ELT</small>
     </td>
     <!-- APIS & INTEGRATION -->
     <td align="center" width="33%" valign="top">
