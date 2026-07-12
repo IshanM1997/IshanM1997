@@ -52,6 +52,7 @@ lines below with your own 3–4 sentences.
       <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://skills.syvixor.com/api/icons?i=python" title="Python" alt="Python" height="40" /></a>
       <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://skills.syvixor.com/api/icons?i=java" title="Java" alt="Java" height="40" /></a>
       <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"><img src="https://skills.syvixor.com/api/icons?i=spring" title="Spring Boot" alt="Spring Boot" height="40" /></a>
+      <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://skills.syvixor.com/api/icons?i=django" title="Django" alt="Django" height="40" /></a>
     </td>
     <!-- FRONTEND -->
     <td align="center" width="33%" valign="top">
@@ -59,7 +60,7 @@ lines below with your own 3–4 sentences.
       <a href="https://angular.dev/" target="_blank" rel="noreferrer"><img src="https://skills.syvixor.com/api/icons?i=angular" title="Angular" alt="Angular" height="40" /></a>
       <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://skills.syvixor.com/api/icons?i=ts" title="TypeScript" alt="TypeScript" height="40" /></a>
       <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"><img src="https://skills.syvixor.com/api/icons?i=html" title="HTML5" alt="HTML5" height="40" /></a>
-      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://skills.syvixor.com/api/icons?i=css" title="CSS3" alt="CSS3" height="40" /></a>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS3" target="_blank" rel="noreferrer"><img src="https://skills.syvixor.com/api/icons?i=css" title="CSS3" alt="CSS3" height="40" /></a>
       <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://skills.syvixor.com/api/icons?i=bootstrap" title="Bootstrap" alt="Bootstrap" height="40" /></a>
     </td>
     <!-- TOOLS & PLATFORMS -->
