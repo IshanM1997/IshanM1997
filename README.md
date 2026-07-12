@@ -90,30 +90,28 @@ lines below with your own 3–4 sentences.
       <b>APIs & Integration</b><br><br>
       <a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://skills.syvixor.com/api/icons?i=postman" title="Postman" alt="Postman" height="40" /></a>
       <a href="https://swagger.io/" target="_blank" rel="noreferrer"><img src="https://skills.syvixor.com/api/icons?i=swagger" title="Swagger / OpenAPI" alt="Swagger / OpenAPI" height="40" /></a>
-      <br><small>REST APIs · OpenAPI</small>
     </td>
   </tr>
   <tr>
     <!-- TESTING & QUALITY -->
     <td align="center" width="33%" valign="top">
       <b>Testing & Quality</b><br><br>
-      <a href="https://junit.org/junit5/" target="_blank" rel="noreferrer"><img src="https://skills.syvixor.com/api/icons?i=junit" title="JUnit" alt="JUnit" height="40" /></a>
-      <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://skills.syvixor.com/api/icons?i=docker" title="Docker" alt="Docker" height="40" /></a>
+      <a href="https://junit.org/junit5/" target="_blank" rel="noreferrer"><img src="https://skills.syvixor.com/api/icons?i=junit5&perline=12&radius=40" title="JUnit" alt="JUnit" height="40" /></a>
       <a href="https://www.sonarsource.com/products/sonarqube/" target="_blank" rel="noreferrer"><img src="https://skills.syvixor.com/api/icons?i=sonarqube" title="SonarQube" alt="SonarQube" height="40" /></a>
     </td>
     <!-- PRODUCTIVITY & WORKFLOW -->
     <td align="center" width="33%" valign="top">
       <b>Productivity & Workflow</b><br><br>
-      <a href="https://github.com" target="_blank" rel="noreferrer"><img src="https://skills.syvixor.com/api/icons?i=github" title="GitHub" alt="GitHub" height="40" /></a>
-      <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"><img src="https://skills.syvixor.com/api/icons?i=idea" title="IntelliJ IDEA" alt="IntelliJ IDEA" height="40" /></a>
+      <a href="https://github.com" target="_blank" rel="noreferrer"><img src="https://skills.syvixor.com/api/icons?i=githubcopilot&perline=12&radius=40" title="GitHubCopilot" alt="GitHubCopilot" height="40" /></a>
+      <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"><img src="https://skills.syvixor.com/api/icons?i=intellijidea&perline=12&radius=40" title="IntelliJ IDEA" alt="IntelliJ IDEA" height="40" /></a>
       <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"><img src="https://skills.syvixor.com/api/icons?i=jira" title="Jira" alt="Jira" height="40" /></a>
     </td>
     <!-- AI TOOLS I USE -->
     <td align="center" width="33%" valign="top">
       <b>AI & Observability Tools</b><br><br>
       <a href="https://www.datadoghq.com/" target="_blank" rel="noreferrer"><img src="https://skills.syvixor.com/api/icons?i=datadog" title="Datadog" alt="Datadog" height="40" /></a>
-      <a href="https://gemini.google.com" target="_blank" rel="noreferrer"><img src="https://skills.syvixor.com/api/icons?i=google" title="Google Gemini AI" alt="Google Gemini AI" height="40" /></a>
-      <a href="https://www.anthropic.com/claude" target="_blank" rel="noreferrer"><img src="https://skills.syvixor.com/api/icons?i=claude" title="Claude AI" alt="Claude AI" height="40" /></a>
+      <a href="https://gemini.google.com" target="_blank" rel="noreferrer"><img src="https://skills.syvixor.com/api/icons?i=googlegemini&perline=12&radius=40" title="Google Gemini AI" alt="Google Gemini AI" height="40" /></a>
+      <a href="https://www.anthropic.com/claude" target="_blank" rel="noreferrer"><img src="https://skills.syvixor.com/api/icons?i=claudeai&perline=12&radius=25" title="Claude AI" alt="Claude AI" height="40" /></a>
     </td>
   </tr>
 </table>
