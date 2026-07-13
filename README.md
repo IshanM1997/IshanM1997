@@ -122,7 +122,7 @@
 <table>
   <tr>
     <!-- Cognizant -->
-    <td align="center" width="33%" valign="top">
+    <td align="left justify" width="33%" valign="top">
       <b>Cognizant</b><br><br>
       <p>1.Architected robust data ingestion microservices using Spring Boot to unify data streaming across 6 legacy platforms, boosting overall operational efficiency by ~50%.</p><br>
       <p>2.Led a 4-engineer squad on Insurance Portal data enhancements; established shared backend components that drove a 30% engineering productivity gain over two quarters.</p><br>
@@ -134,7 +134,7 @@
       </p>
     </td>
     <!-- EY -->
-    <td align="center" width="33%" valign="top">
+    <td align="left justify" width="33%" valign="top">
       <b>EY</b><br><br>
       <p>1.Designed optimized star-schema data models and tuned heavy Oracle SQL stored procedures, reducing automated  report generation processing time by ~40%.</p><br>
         <p>2.Performed exploratory data analysis on datasets containing over 1 million rows, surfacing actionable revenue-trend insights for senior stakeholders.
@@ -222,14 +222,14 @@ A HIPA Merit Award-winning photographer dedicated to experiencing and capturing 
 <table width="100%">
   <tr>
     <!-- Photo Editing -->
-    <td align="center" width="50%" valign="top">
+    <td align="center" valign="top">
       <b>Photo Editing</b><br><br>
       <a><img src="https://skills.syvixor.com/api/icons?i=adobephotoshop&perline=12&radius=25" title="Photoshop" alt="Photoshop" height="40" /></a>
       <a><img src="https://skills.syvixor.com/api/icons?i=adobelightroom&perline=12&radius=25" title="Lightroom" alt="Lightroom" height="40" /></a>
       <a><img src="https://skills.syvixor.com/api/icons?i=adobeillustrator&perline=12&radius=25" title="Illustrator" alt="Illustrator" height="40" /></a>
     </td>
     <!-- Video Editing -->
-    <td align="center" width="50%" valign="top">
+    <td align="center" valign="top">
       <b>Video Editing</b><br><br>
       <a><img src="https://skills.syvixor.com/api/icons?i=adobepremierepro&perline=12&radius=25" title="PremierPro" alt="PremierPro" height="40" /></a>
       <a><img src="https://skills.syvixor.com/api/icons?i=filmora&perline=12&radius=25" title="Filmora" alt="Filmora" height="40" /></a>
