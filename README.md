@@ -28,17 +28,12 @@
 
 ### 🚀 About Me
 
-<!--
-Real text now instead of a GIF — searchable, accessible, and won't
-break if an image file ever goes missing. Replace the bracketed
-lines below with your own 3–4 sentences.
--->
 🚀 Java Full-Stack Engineer | Spring Boot & Angular | Currently upskilling in Data Engineering & Python 🐍 | Driven by scalable code & AI-assisted dev.
 
 - 💼 Full-stack engineer with 4+ years building and maintaining production systems in **Java / Spring Boot** on the backend and **Angular** on the frontend.
 - 📚 Currently deepening skills in **Data Engineering** and **Python**, with an eye toward pipeline and analytics work.
 - 🤝 Comfortable working across the stack — from REST APIs and relational data models to responsive UI — and increasingly working with AI-assisted development workflows.
-- 🎯 [Add one line on what you're looking for next — e.g., "Open to backend/data engineering roles" or "Currently focused on X project"]
+- 🎯 Currently focused on growing in data engineering and Python while building practical, production-ready solutions. Open to Data engineering opportunities where I can build scalable systems and grow in data-driven development.
 
 ---
 
@@ -119,13 +114,48 @@ lines below with your own 3–4 sentences.
   </tr>
 </table>
 
+
+---
+
+### 🛠️ Professional Experience
+
+<table>
+  <tr>
+    <!-- Cognizant -->
+    <td align="center" width="33%" valign="top">
+      <b>Cognizant</b><br><br>
+      <p>
+         Architected robust data ingestion microservices using Spring Boot to unify data streaming across 6 legacy platforms, boosting overall operational efficiency by ~50%.
+         Led a 4-engineer squad on Insurance Portal data enhancements; established shared backend components that drove a 30% engineering productivity gain over two quarters.
+         Built end-to-end Datadog and Splunk observability pipelines to monitor enterprise logs and system metrics, cutting P1 incident MTTR from 4 hours to 45 minutes.
+         Remediated complex Veracode SAST security findings (OWASP Top 10) across high-throughput data pipelines, ensuring zero critical issues over 10+ production releases.
+         Managed repository migrations and automated batch job configurations, leveraging Java 21 features to optimize API data throughput and system performance.
+         Accelerated code velocity and automated unit test generation by strategically utilizing AI-assisted workflows (GitHub Copilot and Claude Code).
+         Mentored 3 junior developers on backend best practices, code quality, and testing artifacts, reducing onboarding ramp-up time by 2 weeks.
+      </p>
+    </td>
+    <!-- EY -->
+    <td align="center" width="33%" valign="top">
+      <b>EY</b><br><br>
+      <p>
+         Designed optimized star-schema data models and tuned heavy Oracle SQL stored procedures, reducing automated report generation processing time by ~40%.
+         Performed exploratory data analysis on datasets containing over 1 million rows, surfacing actionable revenue-trend insights for senior stakeholders.
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
 ### 📌 Featured Projects
 
-| ⚙️ Data Engineering | ☕ Java & Full-Stack |
-| :--- | :--- |
-| **[PySpark-Cleaning-Pipeline](https://github.com/IshanM1997/PySpark-Cleaning-Pipeline)**<br>📑 *Scalable ETL data cleaning pipeline designed and optimized for processing large-scale unstructured datasets.*<br>🛠️ `PySpark` `Python` `Apache Spark` | **[ShopSphere — E-Commerce Platform](https://github.com/IshanM1997/E-commerce-website)**<br>📑 *Full-stack e-commerce monolith featuring secure payment gateways, stateful user shopping carts, and dynamic frontend views.*<br>🛠️ `Java` `Spring Boot` `Angular` `TypeScript` |
-| **[CSV-to-BigQuery](https://github.com/IshanM1997/CSV-to-BigQuery)**<br>📑 *Automated data ingestion engine converting raw local CSV streams into structured BigQuery data warehouses.*<br>🛠️ `Python` `Google BigQuery` `ETL` | **[Java Backend Service 2](https://github.com/IshanM1997/)**<br>📑 *Description of your second Java repository goes here. Highlight key features and core application logic.*<br>🛠️ `Java` `Spring Boot` `MySQL` |
-| **[Real-time-pipeline-monitor](https://github.com/IshanM1997/Real-time-pipeline-monitor)**<br>📑 *Live observability dashboard tracking data freshness metrics, stream volume variances, and ETL health states.*<br>🛠️ `Python` `Apache Airflow` `Datadog` | **[Java Backend Service 3](https://github.com/IshanM1997/)**<br>📑 *Description of your third Java repository goes here. Highlight framework mechanics or architecture.*<br>🛠️ `Java` `JUnit` `Docker` |
+
+| **[PySpark-Cleaning-Pipeline](https://github.com/IshanM1997/PySpark-Cleaning-Pipeline)**<br>📑 *A production-style PySpark ETL pipeline that ingests a raw e-commerce orders CSV, performs deep data cleaning using Apache Spark's distributed DataFrame API, and outputs partitioned Parquet files with a JSON quality report — all designed to scale to millions of rows.*<br>🛠️ `PySpark` `Python` `Apache Spark` | **[ShopSphere — E-Commerce Platform](https://github.com/IshanM1997/E-commerce-website)**<br>📑 *A production-ready e-commerce application with Angular 17 frontend, Spring Boot 3 backend, and MySQL database. Integrates the free FakeStoreAPI to auto-populate products.*<br>🛠️ `Java` `Spring Boot` `Angular` `TypeScript` |
+| **[CSV-to-BigQuery](https://github.com/IshanM1997/CSV-to-BigQuery)**<br>📑 *Automated data ingestion engine converting raw local CSV streams into structured BigQuery data warehouses.*<br>🛠️ `Python` `Google BigQuery` `ETL` | **[Weather App](https://github.com/IshanM1997/Weather-forecast-app)**<br>📑 *Angular based weather app with 5 days weather prediction and live weather update based on location*<br>🛠️ `Angular` `Typescript` `HTML` `CSS`|
+| **[Real-time-pipeline-monitor](https://github.com/IshanM1997/Real-time-pipeline-monitor)**<br>📑 *Live observability dashboard tracking data freshness metrics, stream volume variances, and ETL health states.*<br>🛠️ `Python` `Apache Airflow` `Datadog` | **[JiraLite — Project Management Tool](https://github.com/IshanM1997/JiraLite-Project-Management-Tool)**<br>📑 *A full-stack Jira-inspired project management app built with Django REST Framework and Angular 17 + Angular Material. Covers workspaces, boards, Kanban columns, tickets with drag-and-drop, comments, file attachments, and role-based permissions.*<br>🛠️ `Python` `Angular` `Typescript` |
+
+---
+
 ### 📊 GitHub Analytics & Profile Summary
 
 <p align="center">
@@ -138,6 +168,8 @@ lines below with your own 3–4 sentences.
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IshanM1997&theme=github_dark" alt="Top Languages by Repo" width="48%" />
 </p>
 
+---
+
 ### 📈 Contribution Activity
 
 <p align="center">
@@ -147,30 +179,25 @@ lines below with your own 3–4 sentences.
 ---
 
 ### 🎨 Beyond Code
-
-<!--
-Replaced the GIF with real text. Keep this section only if you
-want a personal touch — otherwise feel free to delete it entirely.
--->
-
-<h4 align="center">Explorer · Adventurer · Foodie · Every frame is an authentic visual story.</h4>
+<h4 align>Explorer · Adventurer · Foodie · Every frame is an authentic visual story.</h4>
 
 A HIPA Merit Award-winning photographer dedicated to experiencing and capturing the vibrant soul of Incredible India. Armed with Nikon Z6III & D5300 and refined by advanced Adobe Photoshop editing — specializing in documentary, street, and travel photography.
 
+---
 
 ### 🛠️ Skills & Tools
 
 <table>
   <tr>
     <!-- Photo Editing -->
-    <td align="center" width="33%" valign="top">
+    <td align="center" width="50%" valign="top">
       <b>Photo Editing</b><br><br>
       <a><img src="https://skills.syvixor.com/api/icons?i=adobephotoshop&perline=12&radius=25" title="Photoshop" alt="Photoshop" height="40" /></a>
       <a><img src="https://skills.syvixor.com/api/icons?i=adobelightroom&perline=12&radius=25" title="Lightroom" alt="Lightroom" height="40" /></a>
       <a><img src="https://skills.syvixor.com/api/icons?i=adobeillustrator&perline=12&radius=25" title="Illustrator" alt="Illustrator" height="40" /></a>
     </td>
     <!-- Video Editing -->
-    <td align="center" width="33%" valign="top">
+    <td align="center" width="50%" valign="top">
       <b>Video Editing</b><br><br>
       <a><img src="https://skills.syvixor.com/api/icons?i=adobepremierepro&perline=12&radius=25" title="PremierPro" alt="PremierPro" height="40" /></a>
       <a><img src="https://skills.syvixor.com/api/icons?i=filmora&perline=12&radius=25" title="Filmora" alt="Filmora" height="40" /></a>
