@@ -124,22 +124,20 @@
     <!-- Cognizant -->
     <td align="center" width="33%" valign="top">
       <b>Cognizant</b><br><br>
-      <p>
-         Architected robust data ingestion microservices using Spring Boot to unify data streaming across 6 legacy platforms, boosting overall operational efficiency by ~50%.
-         Led a 4-engineer squad on Insurance Portal data enhancements; established shared backend components that drove a 30% engineering productivity gain over two quarters.
-         Built end-to-end Datadog and Splunk observability pipelines to monitor enterprise logs and system metrics, cutting P1 incident MTTR from 4 hours to 45 minutes.
-         Remediated complex Veracode SAST security findings (OWASP Top 10) across high-throughput data pipelines, ensuring zero critical issues over 10+ production releases.
-         Managed repository migrations and automated batch job configurations, leveraging Java 21 features to optimize API data throughput and system performance.
-         Accelerated code velocity and automated unit test generation by strategically utilizing AI-assisted workflows (GitHub Copilot and Claude Code).
-         Mentored 3 junior developers on backend best practices, code quality, and testing artifacts, reducing onboarding ramp-up time by 2 weeks.
+      <p>1.Architected robust data ingestion microservices using Spring Boot to unify data streaming across 6 legacy platforms, boosting overall operational efficiency by ~50%.</p><br>
+      <p>2.Led a 4-engineer squad on Insurance Portal data enhancements; established shared backend components that drove a 30% engineering productivity gain over two quarters.</p><br>
+        <p>3.Built end-to-end Datadog and Splunk observability pipelines to monitor enterprise logs and system metrics, cutting P1 incident MTTR from 4 hours to 45 minutes.</p><br>
+        <p>4.Remediated complex Veracode SAST security findings (OWASP Top 10) across high-throughput data pipelines, ensuring zero critical issues over 10+ production releases.</p><br>
+        <p>5.Managed repository migrations and automated batch job configurations, leveraging Java 21 features to optimize API data throughput and system performance.</p><br>
+       <p>6.Accelerated code velocity and automated unit test generation by strategically utilizing AI-assisted workflows (GitHub Copilot and Claude Code).</p><br>
+        <p>7.Mentored 3 junior developers on backend best practices, code quality, and testing artifacts, reducing onboarding ramp-up time by 2 weeks.
       </p>
     </td>
     <!-- EY -->
     <td align="center" width="33%" valign="top">
       <b>EY</b><br><br>
-      <p>
-         Designed optimized star-schema data models and tuned heavy Oracle SQL stored procedures, reducing automated report generation processing time by ~40%.
-         Performed exploratory data analysis on datasets containing over 1 million rows, surfacing actionable revenue-trend insights for senior stakeholders.
+      <p>1.Designed optimized star-schema data models and tuned heavy Oracle SQL stored procedures, reducing automated  report generation processing time by ~40%.</p><br>
+        <p>2.Performed exploratory data analysis on datasets containing over 1 million rows, surfacing actionable revenue-trend insights for senior stakeholders.
       </p>
     </td>
   </tr>
@@ -149,10 +147,44 @@
 
 ### 📌 Featured Projects
 
-
-| **[PySpark-Cleaning-Pipeline](https://github.com/IshanM1997/PySpark-Cleaning-Pipeline)**<br>📑 *A production-style PySpark ETL pipeline that ingests a raw e-commerce orders CSV, performs deep data cleaning using Apache Spark's distributed DataFrame API, and outputs partitioned Parquet files with a JSON quality report — all designed to scale to millions of rows.*<br>🛠️ `PySpark` `Python` `Apache Spark` | **[ShopSphere — E-Commerce Platform](https://github.com/IshanM1997/E-commerce-website)**<br>📑 *A production-ready e-commerce application with Angular 17 frontend, Spring Boot 3 backend, and MySQL database. Integrates the free FakeStoreAPI to auto-populate products.*<br>🛠️ `Java` `Spring Boot` `Angular` `TypeScript` |
-| **[CSV-to-BigQuery](https://github.com/IshanM1997/CSV-to-BigQuery)**<br>📑 *Automated data ingestion engine converting raw local CSV streams into structured BigQuery data warehouses.*<br>🛠️ `Python` `Google BigQuery` `ETL` | **[Weather App](https://github.com/IshanM1997/Weather-forecast-app)**<br>📑 *Angular based weather app with 5 days weather prediction and live weather update based on location*<br>🛠️ `Angular` `Typescript` `HTML` `CSS`|
-| **[Real-time-pipeline-monitor](https://github.com/IshanM1997/Real-time-pipeline-monitor)**<br>📑 *Live observability dashboard tracking data freshness metrics, stream volume variances, and ETL health states.*<br>🛠️ `Python` `Apache Airflow` `Datadog` | **[JiraLite — Project Management Tool](https://github.com/IshanM1997/JiraLite-Project-Management-Tool)**<br>📑 *A full-stack Jira-inspired project management app built with Django REST Framework and Angular 17 + Angular Material. Covers workspaces, boards, Kanban columns, tickets with drag-and-drop, comments, file attachments, and role-based permissions.*<br>🛠️ `Python` `Angular` `Typescript` |
+<table>
+  <tr>
+    <td valign="top">
+      <strong><a href="https://github.com/IshanM1997/PySpark-Cleaning-Pipeline">PySpark-Cleaning-Pipeline</a></strong><br>
+      📑 <em>A production-style PySpark ETL pipeline that ingests a raw e-commerce orders CSV, performs deep data cleaning using Apache Spark's distributed DataFrame API, and outputs partitioned Parquet files with a JSON quality report — all designed to scale to millions of rows.</em><br>
+      🛠️ <code>PySpark</code> <code>Python</code> <code>Apache Spark</code>
+    </td>
+    <td valign="top">
+      <strong><a href="https://github.com/IshanM1997/E-commerce-website">ShopSphere — E-Commerce Platform</a></strong><br>
+      📑 <em>A production-ready e-commerce application with Angular 17 frontend, Spring Boot 3 backend, and MySQL database. Integrates the free FakeStoreAPI to auto-populate products.</em><br>
+      🛠️ <code>Java</code> <code>Spring Boot</code> <code>Angular</code> <code>TypeScript</code>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <strong><a href="https://github.com/IshanM1997/CSV-to-BigQuery">CSV-to-BigQuery</a></strong><br>
+      📑 <em>Automated data ingestion engine converting raw local CSV streams into structured BigQuery data warehouses.</em><br>
+      🛠️ <code>Python</code> <code>Google BigQuery</code> <code>ETL</code>
+    </td>
+    <td valign="top">
+      <strong><a href="https://github.com/IshanM1997/Weather-forecast-app">Weather App</a></strong><br>
+      📑 <em>Angular based weather app with 5 days weather prediction and live weather update based on location.</em><br>
+      🛠️ <code>Angular</code> <code>TypeScript</code> <code>HTML</code> <code>CSS</code>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <strong><a href="https://github.com/IshanM1997/Real-time-pipeline-monitor">Real-time-pipeline-monitor</a></strong><br>
+      📑 <em>Live observability dashboard tracking data freshness metrics, stream volume variances, and ETL health states.</em><br>
+      🛠️ <code>Python</code> <code>Apache Airflow</code> <code>Datadog</code>
+    </td>
+    <td valign="top">
+      <strong><a href="https://github.com/IshanM1997/JiraLite-Project-Management-Tool">JiraLite — Project Management Tool</a></strong><br>
+      📑 <em>A full-stack Jira-inspired project management app built with Django REST Framework and Angular 17 + Angular Material. Covers workspaces, boards, Kanban columns, tickets with drag-and-drop, comments, file attachments, and role-based permissions.</em><br>
+      🛠️ <code>Python</code> <code>Angular</code> <code>TypeScript</code>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -165,7 +197,7 @@
 
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=IshanM1997&layout=compact&hide_border=true&bg_color=0D1117&title_color=FACC15&text_color=FFFFFF" alt="Top Languages" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IshanM1997&theme=github_dark" alt="Top Languages by Repo" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IshanM1997&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages by Repo" width="48%" />
 </p>
 
 ---
@@ -187,7 +219,7 @@ A HIPA Merit Award-winning photographer dedicated to experiencing and capturing 
 
 ### 🛠️ Skills & Tools
 
-<table>
+<table width="100%">
   <tr>
     <!-- Photo Editing -->
     <td align="center" width="50%" valign="top">
