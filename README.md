@@ -124,14 +124,8 @@
     <!-- Cognizant -->
     <td align="left justify" width="33%" valign="top">
       <b>Cognizant</b><br><br>
-      <p>1.Architected robust data ingestion microservices using Spring Boot to unify data streaming across 6 legacy platforms, boosting overall operational efficiency by ~50%.</p><br>
-      <p>2.Led a 4-engineer squad on Insurance Portal data enhancements; established shared backend components that drove a 30% engineering productivity gain over two quarters.</p><br>
-        <p>3.Built end-to-end Datadog and Splunk observability pipelines to monitor enterprise logs and system metrics, cutting P1 incident MTTR from 4 hours to 45 minutes.</p><br>
-        <p>4.Remediated complex Veracode SAST security findings (OWASP Top 10) across high-throughput data pipelines, ensuring zero critical issues over 10+ production releases.</p><br>
-        <p>5.Managed repository migrations and automated batch job configurations, leveraging Java 21 features to optimize API data throughput and system performance.</p><br>
-       <p>6.Accelerated code velocity and automated unit test generation by strategically utilizing AI-assisted workflows (GitHub Copilot and Claude Code).</p><br>
-        <p>7.Mentored 3 junior developers on backend best practices, code quality, and testing artifacts, reducing onboarding ramp-up time by 2 weeks.
-      </p>
+      <p>1. Built and modernized data ingestion microservices with Spring Boot, improving platform integration and operational efficiency across 6 legacy systems.</p><br>
+      <p>2. Led backend delivery and observability improvements, strengthening reliability, security, and team productivity while mentoring junior engineers.</p>
     </td>
     <!-- EY -->
     <td align="left justify" width="33%" valign="top">
